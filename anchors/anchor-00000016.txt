@@ -1,0 +1,3 @@
+proCoin anchor #16
+hash: 2fec867a52a7b1283e31cb8d937317775e2514f53170e78c59927de4dccdd50a
+anchored_at_utc: 2026-06-20T05:21:06.912979Z
