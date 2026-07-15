@@ -1,0 +1,3 @@
+proCoin anchor #41
+hash: 68879ca51f19b7bff37604f83feef6f42e6a4264e8a4a7cf29b105fb73b7aa3d
+anchored_at_utc: 2026-07-15T03:11:50.770597Z
